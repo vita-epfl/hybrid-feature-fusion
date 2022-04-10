@@ -72,7 +72,7 @@ python3 train_IMBS.py --jaad --pie --titan \
 ```
 Arguments should be modified according to your local settings if needed.
 
-The weights of the encoder CNN can be obtained by training the corresponding static [baselines](https://github.com/vita-epfl/hybrid-feature-fusion/src/model/baselines.py) for the same classification task. Please refer to our [paper](https://arxiv.org/abs/2203.02489) for more implementation details.
+The weights of the encoder CNN can be obtained by training the corresponding static [baselines](https://github.com/vita-epfl/hybrid-feature-fusion/blob/main/src/model/baselines.py) for the same classification task. Please refer to our [paper](https://arxiv.org/abs/2203.02489) for more implementation details.
 
 
 ## Evaluation
